@@ -2,7 +2,7 @@
 
 A [Quarkus](https://quarkus.io) + [React](https://react.dev/) AI app for managing fictitious insurance claims. Uses [Quarkus Quinoa](https://docs.quarkiverse.io/quarkus-quinoa/dev/index.html) under the covers.
 
-![App](app/frontend/src/app/assets/images/sample.png)
+![App](app/src/main/webui/src/app/assets/images/sample.png)
 
 ## Pre-requisites
 
